@@ -1,4 +1,4 @@
-import Bitcoin from "./(bitcoin)/page";
+import Bitcoin from "./(bitcoin)/bitcoin";
 import { ModeToggle } from "@/components/ui/mode-toggle";
 import {
 	Sheet,
@@ -9,7 +9,7 @@ import {
 	SheetTrigger,
 } from "@/components/ui/sheet"
 import { Button } from "@/components/ui/button";
-import Converter from "./(converter)/page";
+import Converter from "./(converter)/converter";
 import { Separator } from "@/components/ui/separator";
 
 export default function Home() {
