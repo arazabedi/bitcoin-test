@@ -74,7 +74,7 @@ export default function Converter() {
 							<FormItem className="flex flex-row items-center gap-5">
 								<FormLabel className="font-bold">Currency</FormLabel>
 								<FormControl>
-									<CurrencySelector {...field} />
+									<CurrencySelector {...field as any} />
 								</FormControl>
 								<FormMessage />
 							</FormItem>
