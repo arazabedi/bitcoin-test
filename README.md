@@ -66,14 +66,6 @@ Follow these steps to run the project locally:
 - [Next.js](https://nextjs.org/) - React framework for building web applications.
 - [Blockchain.info API](https://www.blockchain.com/api/exchange_rates_api) - API for fetching real-time Bitcoin prices.
 
-## Contributing
-
-If you find a bug, have a feature request, or would like to contribute, please open an issue or create a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to customize the README to fit the specific details of your project. Include any additional information you think is relevant or necessary.
