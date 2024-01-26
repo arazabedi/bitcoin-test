@@ -52,7 +52,7 @@ export function CurrencySelector() {
 
 	useEffect(() => {
 		setCurrency(getValues("currency") || "");
-	}, []);
+	}, [getValues]);
 
 
 	const handleCurrencyChange = (selectedCurrency: string) => {
