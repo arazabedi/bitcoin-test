@@ -65,6 +65,12 @@ Follow these steps to run the project locally:
 
 - [Next.js](https://nextjs.org/) - React framework for building web applications.
 - [Blockchain.info API](https://www.blockchain.com/api/exchange_rates_api) - API for fetching real-time Bitcoin prices.
+- [Shadcn UI](https://ui.shadcn.com/) - A custom UI library for enhancing the visual design of the application.
+- [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema declaration and validation library.
+- [React Hook Form](https://react-hook-form.com/) - Performant, flexible, and extensible forms with easy-to-use React hooks.
+- [next-themes](https://github.com/pacocoursey/next-themes) - A Next.js plugin for theme management, enabling easy theme switching.
+
+
 
 ## License
 
