@@ -1,6 +1,6 @@
 # Bitcoin Price Viewer and Currency Converter
 
-This small web application is designed to display real-time Bitcoin prices and provide a currency conversion calculator. The project utilizes Next.js for the front-end and fetches Bitcoin prices from the [Blockchain.info API](https://www.blockchain.com/api/exchange_rates_api).
+This small web application is designed to display real-time Bitcoin prices and provide a currency conversion calculator. The project utilises Next.js for the front-end and fetches Bitcoin prices from the [Blockchain.info API](https://www.blockchain.com/api/exchange_rates_api).
 
 ## Deployment
 The app is deployed on Vercel and can be accessed at https://bitcoin-test-sigma.vercel.app/.
