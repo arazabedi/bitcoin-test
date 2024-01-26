@@ -28,7 +28,7 @@ export default async function Bitcoin() {
 	const data = await dynamicData.json();
 	return (
 		<>
-			<div>
+			<div className="w-80 md:w-full">
 				<Table>
 					<TableHeader>
 						<TableRow>
